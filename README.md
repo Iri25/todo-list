@@ -4,7 +4,7 @@ Todo List CRUD application with JSON-server
 ## Setup
 
 -   Run `npm install` to install all project dependencies
--   Run `npm run server` to start-up a local server with JSON (json-server).
+-   Run `npm run server` to start-up a local server with JSON (json-server)
 -   Execute _Live Server_ on index.html file to start-up the client application
 
 ## Requirements
