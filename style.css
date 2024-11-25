@@ -1,0 +1,19 @@
+#todos-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+
+  li {
+    display: inline-block;
+    cursor: pointer;
+  }
+}
+
+#todos-input {
+  margin-left: 40px;
+}
+
+.todos-add-button,
+.todos-delete-button {
+  margin-left: 8px;
+}

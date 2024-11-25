@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "92d6",
+      "title": "Watch lectures from CS50x",
+      "done": false
+    },
+    {
+      "id": "82d1",
+      "title": "Watch Intro to Fetch API",
+      "done": false
+    },
+    {
+      "id": "1c0e",
+      "title": "Submit RPS assignment",
+      "done": false
+    },
+    {
+      "id": "118f",
+      "title": "Submit Todos assignment",
+      "done": false
+    }
+  ]
+}

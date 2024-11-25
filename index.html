@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todos | JSON Server</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="scripts/server.js"></script>
+    <script src="scripts/ui.js" defer></script>
+    <script src="scripts/app.js" defer></script>
+  </head>
+  <body>
+    <h1>JSON Server API</h1>
+    <h2>Todos</h2>
+    <form id="todos-form">
+      <input
+        id="todos-input"
+        type="text"
+        placeholder="Enter a new todo"
+        required
+      />
+      <button class="todos-add-button" type="submit">Add</button>
+    </form>
+    <ul id="todos-list"></ul>
+  </body>
+</html>
