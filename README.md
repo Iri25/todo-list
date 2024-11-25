@@ -7,7 +7,7 @@ Todo List CRUD application with JSON-server
 -   Run `npm run server` to start-up a local server with JSON (json-server).
 -   Execute _Live Server_ on index.html file to start-up the client application
 
-## Homework requirements
+## Requirements
 
 1. Implement a form with a text input and an Add button
    - add new todos to your list
