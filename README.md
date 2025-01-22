@@ -1,5 +1,5 @@
 # todo-list
-Todo List CRUD application with JSON-server
+Todo List CRUD application using JavaScript and JSON-server.
 
 ## Setup
 
